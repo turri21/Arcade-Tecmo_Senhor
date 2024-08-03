@@ -1,3 +1,7 @@
+-=(Tecmo_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # Tecmo
 
 Tecmo was a Japanese video game company founded in 1967, who like many other game companies of the era, had their roots outside the amusement business. In Tecmo's case, they were originally a supplier of cleaning equipment.
