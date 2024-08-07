@@ -2,7 +2,7 @@
 
 Tested: Working Video 720p, 1080p & Sound
 
-The Framebuffer (MISTER_FB) is disabled on purpose in this core, which means that screen rotation is not going to work.
+The Framebuffer (MISTER_FB) is disabled on purpose, which means that screen rotation is not going to work.
 
 This is temporary until we identify what is causing several color issues.
 
