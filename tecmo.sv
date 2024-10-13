@@ -320,7 +320,7 @@ arcade_video #(.WIDTH(256), .DW(12)) arcade_video
   .fx(status[6:4])
 );
 
-//screen_rotate screen_rotate (.*);
+screen_rotate screen_rotate (.*);
 
 ////////////////////////////////////////////////////////////////////////////////
 // SDRAM
