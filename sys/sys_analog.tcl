@@ -81,9 +81,9 @@ set_instance_assignment -name CURRENT_STRENGTH_NEW 8MA -to VGA_*
 #set_location_assignment PIN_AG25 -to BTN_OSD
 #set_location_assignment PIN_AG23 -to BTN_RESET
 
-set_instance_assignment -name VIRTUAL_PIN ON -to LED_USER
-set_instance_assignment -name VIRTUAL_PIN ON -to LED_HDD
-set_instance_assignment -name VIRTUAL_PIN ON -to LED_POWER
+#set_instance_assignment -name VIRTUAL_PIN ON -to LED_USER
+#set_instance_assignment -name VIRTUAL_PIN ON -to LED_HDD
+#set_instance_assignment -name VIRTUAL_PIN ON -to LED_POWER
 
 set_instance_assignment -name VIRTUAL_PIN ON -to BTN_USER
 set_instance_assignment -name VIRTUAL_PIN ON -to BTN_OSD
